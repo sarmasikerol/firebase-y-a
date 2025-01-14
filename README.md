@@ -1,4 +1,4 @@
-# Firebase Authentication with Redux Toolkit and Tailwind CSS
+# Firebase Authentication with Redux Toolkit
 
 ## 📖 Overview
 This project demonstrates a Firebase Authentication workflow integrated with Redux Toolkit for state management and Tailwind CSS for styling. It provides user-friendly authentication features such as login, registration, and password updates.
